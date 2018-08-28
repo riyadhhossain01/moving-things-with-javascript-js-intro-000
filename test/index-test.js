@@ -13,6 +13,6 @@ describe('index', () => {
 
 
   it('runs', () => {
-    expect(true).to.Be.true
+    expect(true).toBe.true
   })
 })
